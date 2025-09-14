@@ -1,1 +1,1 @@
-# sdandu-umd.github.io
+# sdandu-UMD.github.io
